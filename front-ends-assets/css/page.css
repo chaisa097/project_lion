@@ -1,0 +1,31 @@
+.h-video {
+    height: 400px;
+}
+
+.logo-footer {
+    width: 300px;
+}
+
+.text-border-between {
+    border-bottom: 2px solid #B82626;
+    border-top: 2px solid #B82626;
+    padding: 16px 0px;
+}
+
+.important {
+    border-left: 5px solid #e91b23;
+    padding: 4px 15px;
+}
+
+.font-size-24 {
+    font-size: 24px;
+}
+
+.fix-z-index {
+    position: relative;
+    z-index: 2000;
+}
+
+.dropdown-menu {
+    z-index: 3000;
+}
